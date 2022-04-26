@@ -17,9 +17,9 @@
   --rock-2: hsl(349, 70%, 56%);
   --shadow-light: #00000036;
   --shadow-md: #0000004d;
-  --imageP: url(./images/icon-paper.svg);
-  --imageS: url(./images/icon-scissors.svg);
-  --imageR: url(./images/icon-rock.svg);
+  --imageP: url(../public/images/icon-paper.svg);
+  --imageS: url(../public/images/icon-scissors.svg);
+  --imageR: url(../public/images/icon-rock.svg);
 }
 
 * {

@@ -7,7 +7,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://github.com/GeorgiPavlov89/rock-paper-scissors-react)
+- Live Site URL: (https://github.com/GeorgiPavlov89/rock-paper-scissors)
 
 ## My process
 

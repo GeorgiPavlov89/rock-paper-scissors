@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%7Brock-paper-scissors-react%7D/static/css/main.d3064b1c.css",
-    "main.js": "/%7Brock-paper-scissors-react%7D/static/js/main.13959ea2.js",
-    "static/media/logo.svg": "/%7Brock-paper-scissors-react%7D/static/media/logo.a4a2b39fefcdb6a1a8088c4dba8f3d93.svg",
-    "static/media/image-rules.svg": "/%7Brock-paper-scissors-react%7D/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
-    "static/media/icon-paper.svg": "/%7Brock-paper-scissors-react%7D/static/media/icon-paper.8b57a6b108c1b8ae8293.svg",
-    "index.html": "/%7Brock-paper-scissors-react%7D/index.html",
-    "static/media/icon-scissors.svg": "/%7Brock-paper-scissors-react%7D/static/media/icon-scissors.3b1a5d7eb0b2f1fd3e95.svg",
-    "static/media/icon-rock.svg": "/%7Brock-paper-scissors-react%7D/static/media/icon-rock.476e90a9646a87bb3645.svg",
-    "static/media/icon-close.svg": "/%7Brock-paper-scissors-react%7D/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
-    "static/media/bg-triangle.svg": "/%7Brock-paper-scissors-react%7D/static/media/bg-triangle.c0c30b562fdb08766659.svg",
-    "main.d3064b1c.css.map": "/%7Brock-paper-scissors-react%7D/static/css/main.d3064b1c.css.map",
-    "main.13959ea2.js.map": "/%7Brock-paper-scissors-react%7D/static/js/main.13959ea2.js.map"
+    "main.css": "/%7Brock-paper-scissors%7D/static/css/main.72d18cbe.css",
+    "main.js": "/%7Brock-paper-scissors%7D/static/js/main.a2f1d98d.js",
+    "static/media/logo.svg": "/%7Brock-paper-scissors%7D/static/media/logo.a4a2b39fefcdb6a1a8088c4dba8f3d93.svg",
+    "static/media/image-rules.svg": "/%7Brock-paper-scissors%7D/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
+    "static/media/icon-paper.svg": "/%7Brock-paper-scissors%7D/static/media/icon-paper.8b57a6b108c1b8ae8293.svg",
+    "index.html": "/%7Brock-paper-scissors%7D/index.html",
+    "static/media/icon-scissors.svg": "/%7Brock-paper-scissors%7D/static/media/icon-scissors.3b1a5d7eb0b2f1fd3e95.svg",
+    "static/media/icon-rock.svg": "/%7Brock-paper-scissors%7D/static/media/icon-rock.476e90a9646a87bb3645.svg",
+    "static/media/icon-close.svg": "/%7Brock-paper-scissors%7D/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
+    "static/media/bg-triangle.svg": "/%7Brock-paper-scissors%7D/static/media/bg-triangle.c0c30b562fdb08766659.svg",
+    "main.72d18cbe.css.map": "/%7Brock-paper-scissors%7D/static/css/main.72d18cbe.css.map",
+    "main.a2f1d98d.js.map": "/%7Brock-paper-scissors%7D/static/js/main.a2f1d98d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3064b1c.css",
-    "static/js/main.13959ea2.js"
+    "static/css/main.72d18cbe.css",
+    "static/js/main.a2f1d98d.js"
   ]
 }
